@@ -1,0 +1,32 @@
+form {
+  background-color: #e0aeae;
+  padding: 10px 10px;
+ 
+}
+
+input {
+  width: 10%;
+  margin: 4px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+
+.button {
+    background-color:#e7e7e7; 
+    color: black;
+    border-color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+    margin-left: 720px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+.button:hover {
+    background-color: #9ca19c;
+}
